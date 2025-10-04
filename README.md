@@ -3,15 +3,37 @@
 > Battle-tested frameworks, templates, and methodologies from 20+ years leading products across Telco, Insurance, Fintech, and Digital Entertainment.
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yourmclovin/product-leadership-toolkit/issues)
+[![Private Repository](https://img.shields.io/badge/access-by%20invitation-red.svg)](https://github.com/yourmclovin/product-leadership-toolkit)
 
 ---
 
 ## 👋 About This Toolkit
 
-This repository is a curated collection of **proven product management frameworks and templates** refined over two decades building products that scale. From launching Vodafone TV ($25M+ revenue) to growing Emirates' loyalty app (20M users, 20% DAU growth) to developing enterprise SaaS solutions (60% CAPEX reduction), these tools have been battle-tested in the real world.
+This repository is a curated collection of **proven product management frameworks and templates** refined over two decades building products that scale. From launching major OTT platforms to growing multi-million user loyalty programs to developing enterprise SaaS solutions, these tools have been battle-tested in the real world.
 
 **Mission:** Help product leaders build AI-first, customer-centric products that scale.
+
+---
+
+## 🔒 Access & Usage
+
+This is a **private repository** containing proprietary frameworks and methodologies.
+
+### Request Access
+
+Interested in accessing these frameworks? Please reach out via [LinkedIn](https://www.linkedin.com/in/owenmcloughlin) with:
+- Your role and company
+- What you're looking to solve
+- How you plan to use these frameworks
+
+### Current Access
+
+If you're reading this, you've been granted access. Please:
+- ✅ Use these frameworks for your work
+- ✅ Adapt them to your context
+- ✅ Share feedback and improvements
+- ❌ Do not redistribute without permission
+- ❌ Do not share access credentials
 
 ---
 
@@ -74,6 +96,14 @@ This repository is a curated collection of **proven product management framework
 - GTM Strategy Templates
 - Product Marketing Frameworks
 
+### 🔷 **AI Product Management** ⭐ NEW!
+- AI Agents Development Guide
+- Prompt Engineering for PMs
+- Enterprise AI Strategy
+- AI Use Case Identification
+- Building AI-First Products
+- AI Ethics & Governance
+
 ### 🔷 **Guides & Playbooks**
 - Product Discovery Playbook
 - Product Leadership Handbook
@@ -88,7 +118,7 @@ This repository is a curated collection of **proven product management framework
 1. **Browse by Category:** Navigate to the folder that matches your current challenge
 2. **Download Templates:** All templates are provided in editable formats (Excel, PowerPoint, PDF)
 3. **Adapt & Apply:** These are starting points—customize them for your context
-4. **Share Feedback:** Found something useful? Have suggestions? Open an issue or PR!
+4. **Share Feedback:** Found something useful? Have suggestions? Open an issue or reach out!
 
 ---
 
@@ -124,25 +154,32 @@ A structured approach to corporate innovation covering:
 
 📁 **Location:** `/02-innovation-frameworks/corporate-innovation-canvas.pdf`
 
+### 🤖 AI Product Management Framework
+Comprehensive guide to building AI-first products:
+- AI Agents & Development
+- Enterprise AI Strategy
+- Prompt Engineering
+- AI Use Cases & Trends
+- Ethics & Compliance
+
+📁 **Location:** `/08-ai-product-management/README.md`
+
 ---
 
 ## 🌟 Background
 
-**Owen McLoughlin**  
-*AI-First Product Leader | 20+ Years Global Experience (APAC/EMEA)*
+**AI-First Product Leader | 20+ Years Global Experience (APAC/EMEA)**
 
-- 🏢 Director of Group Product Strategy - Partnerships @ Prudential PLC
-- 🎓 MSc Innovation (HEC Paris), Harvard Business School Executive Education
-- 🌍 Experience: Telco, Insurance, Fintech, Digital Entertainment
-- 🚀 Founder: O&D Consultancy | Building Attimo (hardware-enabled SaaS)
+- 🎓 **Education:** MSc Innovation (HEC Paris), Harvard Business School Executive Education
+- 🌍 **Experience:** Telco, Insurance, Fintech, Digital Entertainment
+- 🚀 **Focus:** AI-native products, digital transformation, platform strategy
 
 **Key Achievements:**
-- Led Emirates Airlines loyalty app: 20M users, 20% DAU growth
-- Launched Vodafone TV: $25M+ revenue
-- Developed enterprise SaaS: 60% CAPEX reduction
-- Managed 30+ product portfolio at M1 with partnerships (Netflix, Spotify, Apple)
-
-🔗 [LinkedIn](https://www.linkedin.com/in/owenmcloughlin)
+- Led major airline loyalty platform with significant user growth
+- Launched successful OTT streaming service
+- Developed enterprise SaaS solutions with substantial cost reduction
+- Managed large product portfolios with strategic partnerships
+- Built AI-first product strategies for global insurance company
 
 ---
 
@@ -160,30 +197,37 @@ Begin with the **Business Model Canvas** and **Value Proposition Canvas** to val
 ### For Innovation Teams
 Use the **Innovation Pyramid Questions** and **Idea Validation Checklist** to systematically evaluate opportunities.
 
+### For AI Product Managers
+Dive into the **AI Product Management** section for frameworks on agents, prompting, and enterprise AI strategy.
+
 ---
 
 ## 🤝 Contributing
 
-While this is primarily a personal collection, I welcome:
+While this is a private collection, feedback is welcome:
 - **Feedback:** What's working? What's missing?
 - **Use Cases:** How are you using these frameworks?
 - **Improvements:** Spotted an error or have a suggestion?
 
-Open an issue or submit a pull request!
+Reach out via [LinkedIn](https://www.linkedin.com/in/owenmcloughlin) or open an issue.
 
 ---
 
 ## 📜 License & Usage
 
-### Personal & Educational Use
-✅ **FREE** - Use these frameworks for personal learning and non-commercial projects
+### Authorized Users
+✅ **Permitted** - Use these frameworks for your professional work
+✅ **Encouraged** - Adapt and customize for your context
+✅ **Welcome** - Share feedback and improvements
 
-### Commercial Use
-⚠️ **Attribution Required** - If you use these frameworks in commercial settings, please provide attribution:
-> "Framework adapted from Owen McLoughlin's Product Leadership Toolkit"
+### Restrictions
+❌ **No Redistribution** - Do not share outside authorized users
+❌ **No Public Posting** - Do not post to public repositories or websites
+❌ **No Resale** - Do not package and sell these frameworks
 
-### Prohibited
-❌ **No Resale** - You may not package and resell these frameworks as your own product
+### Attribution
+If you use these frameworks in presentations or publications, please provide attribution:
+> "Framework adapted from private Product Leadership Toolkit"
 
 📄 Full License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -191,33 +235,32 @@ Open an issue or submit a pull request!
 
 ## 🔮 Roadmap
 
+### Recently Added
+- [x] AI Product Management section
+- [x] AI Agents development guide
+- [x] Prompt engineering frameworks
+- [x] Enterprise AI strategy guides
+
 ### Coming Soon
-- [ ] AI Product Management frameworks
 - [ ] Case studies from real-world implementations
 - [ ] Video walkthroughs of key frameworks
 - [ ] Interactive templates (Miro, Figma)
 - [ ] Product metrics dashboards
+- [ ] AI ethics & governance deep-dive
 
 ### In Progress
 - [x] Initial framework collection
 - [x] Repository structure
-- [ ] Detailed framework documentation
-- [ ] Example use cases
+- [x] Detailed framework documentation
+- [ ] More example use cases
 
 ---
 
 ## 💬 Get in Touch
 
-For inquiries about consulting, speaking engagements, or collaboration opportunities, please reach out via [LinkedIn](https://www.linkedin.com/in/owenmcloughlin).
+For questions, feedback, or to request access for colleagues:
 
----
-
-## ⭐ Show Your Support
-
-If you find this toolkit valuable:
-- **Star this repo** to bookmark it
-- **Share it** with fellow product leaders
-- **Contribute** your own frameworks and learnings
+🔗 [LinkedIn](https://www.linkedin.com/in/owenmcloughlin)
 
 ---
 
@@ -229,10 +272,12 @@ These frameworks have been influenced by:
 - Board of Innovation (Innovation frameworks)
 - Google (UX Research frameworks)
 - ProductPlan (Roadmap & prioritization frameworks)
-- And countless product leaders I've learned from over 20 years
+- Anthropic (AI agent development, prompt engineering)
+- And countless product leaders learned from over 20 years
 
 ---
 
 **Built with ❤️ by a product leader, for product leaders.**
 
 *Last Updated: January 2025*
+*Repository Status: Private - Access by Invitation Only*

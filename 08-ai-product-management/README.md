@@ -57,18 +57,18 @@ As AI transforms product development, this section provides battle-tested framew
 ## 📥 Downloads
 
 ### AI Agents & Development
-- [A Practical Guide to Building AI Agents](https://res.cloudinary.com/dimqqmfx6/raw/upload/v1759549640/ai-practical-guide-building-agents.pdf) (7.0 MB)
-- [Building Effective AI Agents - Anthropic](https://res.cloudinary.com/dimqqmfx6/raw/upload/v1759549640/ai-building-effective-agents-anthropic.pdf) (126 KB)
-- [Google AI Agent Building Guide](https://res.cloudinary.com/dimqqmfx6/raw/upload/v1759549640/ai-google-agent-building.pdf) (4.3 MB)
+- [A Practical Guide to Building AI Agents](https://res.cloudinary.com/dimqqmfx6/raw/upload/v1759550232/ai-practical-guide-building-agents_sjp9nw.pdf) (7.0 MB)
+- [Building Effective AI Agents - Anthropic](https://res.cloudinary.com/dimqqmfx6/raw/upload/v1759550232/ai-building-effective-agents-anthropic_ezuiva.pdf) (126 KB)
+- [Google AI Agent Building Guide](https://res.cloudinary.com/dimqqmfx6/raw/upload/v1759550233/ai-google-agent-building_rzyfiy.pdf) (4.3 MB)
 
 ### Enterprise AI Strategy
-- [AI in the Enterprise](https://res.cloudinary.com/dimqqmfx6/raw/upload/v1759549640/ai-in-the-enterprise.pdf) (9.5 MB)
-- [Identifying & Scaling AI Use Cases](https://res.cloudinary.com/dimqqmfx6/raw/upload/v1759549640/ai-identifying-scaling-use-cases.pdf) (5.9 MB)
-- [Building a Lean AI-Driven Company](https://res.cloudinary.com/dimqqmfx6/raw/upload/v1759549640/ai-lean-company-blueprint.pdf) (138 KB)
+- [AI in the Enterprise](https://res.cloudinary.com/dimqqmfx6/raw/upload/v1759550234/ai-in-the-enterprise_pizgqg.pdf) (9.5 MB)
+- [Identifying & Scaling AI Use Cases](https://res.cloudinary.com/dimqqmfx6/raw/upload/v1759550232/ai-identifying-scaling-use-cases_j8jtfb.pdf) (5.9 MB)
+- [Building a Lean AI-Driven Company](https://res.cloudinary.com/dimqqmfx6/raw/upload/v1759550236/ai-lean-company-blueprint_lt0kpd.pdf) (138 KB)
 
 ### Prompt Engineering
-- [Prompt Engineering Overview - Anthropic](https://res.cloudinary.com/dimqqmfx6/raw/upload/v1759549640/ai-prompt-engineering-anthropic.pdf) (74 KB)
-- [Gemini Prompting Guide](https://res.cloudinary.com/dimqqmfx6/raw/upload/v1759549640/ai-gemini-prompting-guide.pdf) (5.0 MB)
+- [Prompt Engineering Overview - Anthropic](https://res.cloudinary.com/dimqqmfx6/raw/upload/v1759550232/ai-prompt-engineering-anthropic_zkwd3d.pdf) (74 KB)
+- [Gemini Prompting Guide](https://res.cloudinary.com/dimqqmfx6/raw/upload/v1759550234/ai-gemini-prompting-guide_gq92vn.pdf) (5.0 MB)
 
 ---
 
@@ -238,7 +238,7 @@ As AI transforms product development, this section provides battle-tested framew
 
 These frameworks have been applied to:
 
-### Insurance (Prudential)
+### Insurance
 - AI-native underwriting and claims processing
 - Conversational AI for customer support
 - Predictive analytics for risk assessment
@@ -258,12 +258,12 @@ These frameworks have been applied to:
 ## 🤝 Contributing
 
 Have AI product management frameworks or case studies to share?
-- Open an issue with your suggestion
-- Submit a pull request with new resources
+- Reach out via [LinkedIn](https://www.linkedin.com/in/owenmcloughlin)
 - Share your AI product learnings
+- Suggest improvements or additions
 
 ---
 
-*Part of the [Product Leadership Toolkit](../) by Owen McLoughlin*
+*Part of the [Product Leadership Toolkit](../) - Private Repository*
 
 **Built for AI-first product leaders navigating the future of product development.**

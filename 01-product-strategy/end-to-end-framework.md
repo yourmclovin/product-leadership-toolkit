@@ -1,6 +1,6 @@
 # End-to-End Innovation Framework
 
-> **Proprietary Framework by Owen McLoughlin**
+> **Proprietary Framework**
 
 A comprehensive framework for taking product ideas from concept to launch, refined over 20+ years of product leadership.
 
@@ -53,10 +53,10 @@ This framework provides a structured approach to:
 ## Real-World Applications
 
 This framework has been successfully applied to:
-- **Vodafone TV Launch** - $25M+ revenue
-- **Emirates Loyalty App** - 20M users, 20% DAU growth
-- **Enterprise SaaS Solutions** - 60% CAPEX reduction
-- **Multiple Telco/Insurance/Fintech products** across APAC and EMEA
+- **OTT Streaming Platform** - Major market launch
+- **Airline Loyalty Program** - Significant user growth
+- **Enterprise SaaS Solutions** - Substantial cost reduction
+- **Multiple products** across Telco, Insurance, and Fintech
 
 ---
 
@@ -68,4 +68,4 @@ This framework has been successfully applied to:
 
 ---
 
-*Part of the [Product Leadership Toolkit](https://github.com/yourmclovin/product-leadership-toolkit) by Owen McLoughlin*
+*Part of the [Product Leadership Toolkit](https://github.com/yourmclovin/product-leadership-toolkit)*

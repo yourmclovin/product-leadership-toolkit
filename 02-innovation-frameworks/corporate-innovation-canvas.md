@@ -129,7 +129,7 @@ Work through each section systematically:
 
 This framework has been used for:
 
-### Prudential - AI-Driven Insurance Products
+### Insurance - AI-Driven Products
 - **Ambition:** Transformational
 - **Focus:** AI-native underwriting and claims
 - **Outcome:** New product lines, improved efficiency
@@ -197,4 +197,4 @@ This framework has been used for:
 
 ---
 
-*Part of the [Product Leadership Toolkit](https://github.com/yourmclovin/product-leadership-toolkit) by Owen McLoughlin*
+*Part of the [Product Leadership Toolkit](https://github.com/yourmclovin/product-leadership-toolkit)*
