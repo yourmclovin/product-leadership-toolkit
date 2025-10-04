@@ -9,9 +9,9 @@
 
 ## 👋 About This Toolkit
 
-This repository is a curated collection of **proven product management frameworks and templates** I've refined over two decades building products that scale. From launching Vodafone TV ($25M+ revenue) to growing Emirates' loyalty app (20M users, 20% DAU growth) to developing enterprise SaaS solutions (60% CAPEX reduction), these tools have been battle-tested in the real world.
+This repository is a curated collection of **proven product management frameworks and templates** refined over two decades building products that scale. From launching Vodafone TV ($25M+ revenue) to growing Emirates' loyalty app (20M users, 20% DAU growth) to developing enterprise SaaS solutions (60% CAPEX reduction), these tools have been battle-tested in the real world.
 
-**My Mission:** Help product leaders build AI-first, customer-centric products that scale.
+**Mission:** Help product leaders build AI-first, customer-centric products that scale.
 
 ---
 
@@ -95,14 +95,14 @@ This repository is a curated collection of **proven product management framework
 ## 💡 Featured Frameworks
 
 ### 🎯 End-to-End Innovation Framework
-My proprietary framework for taking ideas from concept to launch, covering:
+Proprietary framework for taking ideas from concept to launch, covering:
 - Ideation & Opportunity Assessment
 - Customer Discovery & Validation
 - Business Model Design
 - MVP Definition & Testing
 - Go-to-Market Strategy
 
-📁 **Location:** `/01-product-strategy/end-to-end-innovation-framework.docx`
+📁 **Location:** `/01-product-strategy/end-to-end-innovation-framework.md`
 
 ### 📊 Product Hypothesis Scoring
 A quantitative framework for prioritizing product ideas based on:
@@ -126,15 +126,15 @@ A structured approach to corporate innovation covering:
 
 ---
 
-## 🌟 My Background
+## 🌟 Background
 
 **Owen McLoughlin**  
 *AI-First Product Leader | 20+ Years Global Experience (APAC/EMEA)*
 
-- 🏢 **Current:** Director of Group Product Strategy - Partnerships @ Prudential PLC
-- 🎓 **Education:** MSc Innovation (HEC Paris), Harvard Business School Executive Education
-- 🌍 **Experience:** Telco, Insurance, Fintech, Digital Entertainment
-- 🚀 **Ventures:** Founder of O&D Consultancy | Building Attimo (hardware-enabled SaaS for photographers)
+- 🏢 Director of Group Product Strategy - Partnerships @ Prudential PLC
+- 🎓 MSc Innovation (HEC Paris), Harvard Business School Executive Education
+- 🌍 Experience: Telco, Insurance, Fintech, Digital Entertainment
+- 🚀 Founder: O&D Consultancy | Building Attimo (hardware-enabled SaaS)
 
 **Key Achievements:**
 - Led Emirates Airlines loyalty app: 20M users, 20% DAU growth
@@ -142,7 +142,7 @@ A structured approach to corporate innovation covering:
 - Developed enterprise SaaS: 60% CAPEX reduction
 - Managed 30+ product portfolio at M1 with partnerships (Netflix, Spotify, Apple)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/owenmcloughlin) | 📧 owenmcloughlin1@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/owenmcloughlin)
 
 ---
 
@@ -206,13 +206,9 @@ Open an issue or submit a pull request!
 
 ---
 
-## 💬 Let's Connect
+## 💬 Get in Touch
 
-I'm always happy to discuss product strategy, AI-first product development, or innovation frameworks.
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/owenmcloughlin)
-- 📧 owenmcloughlin1@gmail.com
-- 📱 +65 8102 5339
+For inquiries about consulting, speaking engagements, or collaboration opportunities, please reach out via [LinkedIn](https://www.linkedin.com/in/owenmcloughlin).
 
 ---
 
